@@ -53,7 +53,7 @@ Tujuan dari proyek ini adalah menyediakan platform yang efisien dan efektif bagi
 5. Buka browser, masukkan URL http://localhost/phpmyadmin/.
 6. Buat database baru dengan nama "rikos".
 7. Pilih database "rikos" dan klik "Import".
-8. Pilih file "rikos.sql" di folder db dalam folder sistem-informasi-booking-kamar-kos yang telah diekstrak.
+8. Pilih file "rikos.sql" di folder db dalam folder Rikos yang telah diekstrak.
 9. Klik "Import".
 
 ## Cara Menggunakan
@@ -63,20 +63,20 @@ Tujuan dari proyek ini adalah menyediakan platform yang efisien dan efektif bagi
 
 ## Laporan Proyek
 
-[Laporan Proyek SRS](https://drive.google.com/file/d/1qIWjt3rxC2c9eA6k6Dy8-7FRGxcjCpPA/view?usp=sharing)
-[Laporan Proyek SDD](https://drive.google.com/file/d/1MOVWdqVkiLvDEPn1c2fIMHLaSsL1bK8y/view?usp=sharing)
+1. [Laporan Proyek SRS](https://drive.google.com/file/d/1qIWjt3rxC2c9eA6k6Dy8-7FRGxcjCpPA/view?usp=sharing)
+2. [Laporan Proyek SDD](https://drive.google.com/file/d/1MOVWdqVkiLvDEPn1c2fIMHLaSsL1bK8y/view?usp=sharing)
 
 ## Anggota Tim
 
 Proyek ini dikerjakan oleh tim Sistem Informasi Booking Kamar Kos:
-- [Eros Alfedo Hermanto] - Ketua
-- [Insanu Sholeh Jum Gunawan] - Anggota 1
-- [Diemas Aji Saputro] - Anggota 2
-- [Salsabila Safirana Wibisono] - Anggota 3
-- [Suci Muharomah] - Anggota 4
-- [Fasya Aqiyla Aldien] - Anggota 5
-- [Risfa Imanullah Muhammad] - Anggota 6
+- Eros Alfedo Hermanto - Ketua
+- Insanu Sholeh Jum Gunawan - Anggota 1
+- Diemas Aji Saputro - Anggota 2
+- Salsabila Safirana Wibisono - Anggota 3
+- Suci Muharomah - Anggota 4
+- Fasya Aqiyla Aldien - Anggota 5
+- Risfa Imanullah Muhammad - Anggota 6
 
 ## Dosen Pengampu
 
-Proyek ini dibimbing oleh [Moh Hadi Subowo], [S.Kom, M.T.I] sebagai dosen pengampu mata kuliah [Rekayasa Peraangkat Lunak] di Program Studi [Teknologi Informasi] Fakultas [Sains dan Teknologi] Universitas [Islam Negeri Walisongo].
+Proyek ini dibimbing oleh Moh Hadi Subowo, S.Kom, M.T.I sebagai dosen pengampu mata kuliah Rekayasa Peraangkat Lunak di Program Studi Teknologi Informasi Fakultas Sains dan Teknologi Universitas Islam Negeri Walisongo.
